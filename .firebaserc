@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-crud-demo-bb0ab": {
+      "hosting": {
+        "firebase-crud-demo": [
+          "fir-crud-demo-bb0ab"
+        ]
+      }
+    }
+  }
+}
